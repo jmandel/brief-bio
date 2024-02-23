@@ -1,7 +1,7 @@
 # Josh Mandel, MD
 
-* Twitter: https://twitter.com/JoshCMandel
-* YouTube: https://youtube.com/@JoshMandelMD
+* Twitter: [@JoshCMandel](https://twitter.com/JoshCMandel)
+* YouTube: [@JoshMandelMD](https://youtube.com/@JoshMandelMD)
 
 ## Chief Architect for Microsoft Health Futures and SMART Health IT
 
